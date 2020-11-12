@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import NavBar from "./components/navbar";
 import Counters from "./components/counters";
 
-class Equipment {
+// as a 
+class Equipment extends React.Component {
 	constructor(id, imgPath) {
 		// the ID will be used to identify the piece of equipment in our database
 		this.id = id;
@@ -15,7 +16,13 @@ class Equipment {
 		// use id to get data
 
 		// return data
-		return 0;
+		return ;
 	}
 }
 
+const banner = <img src="sdc-app/img/cat-wide-white.png"></img>
+
+ReactDOM.render(
+	banner,
+	document.getElementById('root')
+);
