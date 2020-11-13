@@ -47,7 +47,7 @@ class Dashboard extends React.Component {
         return (
             <React.Fragment>
                 <div>
-                    <h1>Hello</h1>
+                    <h1>Current Equipment</h1>
                 </div>
                 <BootstrapTable data={ null }>
                     <TableHeaderColumn dataField='id' isKey>Id</TableHeaderColumn>
