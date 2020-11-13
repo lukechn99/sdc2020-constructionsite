@@ -14,12 +14,13 @@ class Equipment extends React.Component {
             // show diagnostics here
             body: 'Loading...',
             /* if we want the user to confirm looking at detailed info */
-            // actions: [
-            //     Dialog.CancelAction(),
-            //     Dialog.OKAction(() => {
-            //         // show data, render onto table
-            //     })
-            // ]
+            actions: [
+                // Dialog.CancelAction(),
+                // Dialog.OKAction(() => {
+                //     // show data, render onto table
+                // })
+                Dialog.OKAction()
+            ]
         })
     }
 
@@ -30,7 +31,7 @@ class Equipment extends React.Component {
                 <button
                     bsStyle = "primary"
                     onClick = {() => this.handleClick(cell, row, rowIndex)}
-                ><img src="./assets/785D.jpeg" alt="785D" onClick={() => this.handleClick(cell, row, rowIndex)}/></button>
+                ><img src="../../assets/785D.jpeg" alt="785D" onClick={() => this.handleClick(cell, row, rowIndex)}/></button>
                 <Dialog ref={(el) => { this.dialog = el }} />
             </React.Fragment>
         )
@@ -49,6 +50,23 @@ class Dashboard extends React.Component {
                 <div>
                     <h1>Current Equipment</h1>
                 </div>
+                <table>
+                    <tr>
+                        <td>
+                        <Equipment />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <Equipment />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <Equipment />
+                        </td>
+                    </tr>
+                </table>
                 <BootstrapTable data={ null }>
                     <TableHeaderColumn dataField='id' isKey>Id</TableHeaderColumn>
                     <TableHeaderColumn
