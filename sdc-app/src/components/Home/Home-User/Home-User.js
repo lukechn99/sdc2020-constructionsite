@@ -1,16 +1,20 @@
 import React, {Component} from 'react';
 // import Navbar from "../../Navbar/Navbar"
+import Navbar from "../../Navbar/Navbar";
+import ServiceLog from "../../Equipment/ServiceLog";
+import Dashboard from '../../Equipment/Dashboard';
 
-  class Guest extends Component{
+  class User extends Component{
       render(){
           return(
-            <div>
-      
-            Home-User
-               </div>      
-
+            <React.Fragment>
+              <div>
+                Home-User
+              </div>
+              <ServiceLog isManager/>    
+            </React.Fragment>
           )
       }
   }
 
-  export default Guest
+  export default User
