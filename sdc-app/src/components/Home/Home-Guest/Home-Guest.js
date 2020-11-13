@@ -1,45 +1,16 @@
 import React, {Component} from 'react';
-import Navbar from "./Navbar/Navbar"
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
-  } from "react-router-dom";
+// import Navbar from "../../Navbar/Navbar"
 
-  class Home extends Component{
+  class Guest extends Component{
       render(){
           return(
-            <Router>
-            <div name = "Navigation-Bar">
-                <Navbar /> 
-            </div>
-            
-            <div name = "Products-Table">
-                
-                <table>
-                  <tr>
-                      <td>
-                        <div>
-
-                          <picture>
-                            
-                          </picture>
-
-                        </div>
-                      </td>
-                  </tr>
-                  <tr>
-
-                  </tr>
-                </table>
-
-            </div>
-            
-            </Router>
+            <div>
+         
+            Home-Guest
+               </div>      
 
           )
       }
   }
 
-  export default Home
+  export default Guest
