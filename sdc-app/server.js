@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import NavBar from "./components/navbar";
-import Counters from "./components/counters";
+// import React, { Component } from "react";
+// import NavBar from "./components/navbar";
+// import Counters from "./components/counters";
 
 // as a 
 class Equipment extends React.Component {
@@ -18,7 +18,7 @@ class Equipment extends React.Component {
 		// return data
 		return ;
 	}
-}
+};
 
 const banner = <img src="sdc-app/img/cat-wide-white.png"></img>
 
