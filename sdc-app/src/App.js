@@ -1,7 +1,7 @@
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import logo from './logo.svg';
-import Navbar from "./components/Navbar/Navbar"
-import ServiceLog from "./components/Equipment/ServiceLog"
+import Navbar from "./components/Navbar/Navbar";
+import ServiceLog from "./components/Equipment/ServiceLog";
 import Dashboard from './components/Equipment/Dashboard';
 import './App.css';
 
