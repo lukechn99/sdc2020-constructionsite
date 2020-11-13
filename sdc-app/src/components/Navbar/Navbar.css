@@ -1,0 +1,53 @@
+/* .NavbarItems{
+    height: 16 px;
+    display: flex;
+    background-color: black;
+} */
+
+.Navbar-Border{
+    background-color: black;
+}
+
+img{
+    padding-right: 1100px;
+    height : 44px;
+     /* width : 88px;  */
+}
+
+ul {
+    list-style-type : none;
+    margin : 120;
+    padding : 0;
+    overflow : hidden;
+    background-color: black;
+}
+
+li {
+    float : right;
+}
+
+li a {
+    display : block;
+    color : white;
+    text-align : right;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: gray;
+
+}
+
+p{
+    color: white;
+}
+
+.Login-Page{
+    padding-top:280px;
+}
+
+.btnLogin{
+    size:200px;
+}
