@@ -1,0 +1,553 @@
+{
+  "name": "785D",
+  "Gross Power - SAE J1995": {
+    "us": {
+      "value": 1450,
+      "units": "HP"
+    },
+    "metric": {
+      "value": 1082,
+      "units": "kW"
+    }
+  },
+  "Net Power - SAE J1349": {
+    "us": {
+      "value": 1348,
+      "units": "HP"
+    },
+    "metric": {
+      "value": 1005,
+      "units": "kW"
+    }
+  },
+  "Engine Model": {
+    "us": {
+      "value": null,
+      "units": "3512C"
+    },
+    "metric": {
+      "value": null,
+      "units": "3512C"
+    }
+  },
+  "Bore": {
+    "us": {
+      "value": 6.7,
+      "units": "in"
+    },
+    "metric": {
+      "value": 170,
+      "units": "mm"
+    }
+  },
+  "Stroke": {
+    "us": {
+      "value": 8.4,
+      "units": "in"
+    },
+    "metric": {
+      "value": 215,
+      "units": "mm"
+    }
+  },
+  "Displacement": {
+    "us": {
+      "value": 3573.6,
+      "units": "in³"
+    },
+    "metric": {
+      "value": 58.56,
+      "units": "l"
+    }
+  },
+  "Nominal Rated Payload": {
+    "us": {
+      "value": 154,
+      "units": "ton"
+    },
+    "metric": {
+      "value": 140,
+      "units": "t"
+    }
+  },
+  "Rated Gross Machine Weight": {
+    "us": {
+      "value": 550000,
+      "units": "lb"
+    },
+    "metric": {
+      "value": 249476,
+      "units": "kg"
+    }
+  },
+  "Body Weight - MSD": {
+    "us": {
+      "value": 46738,
+      "units": "lb"
+    },
+    "metric": {
+      "value": 21200,
+      "units": "kg"
+    }
+  },
+  "Chassis Weight": {
+    "us": {
+      "value": 183270,
+      "units": "lb"
+    },
+    "metric": {
+      "value": 83130,
+      "units": "kg"
+    }
+  },
+  "Forward - 1": {
+    "us": {
+      "value": 7.5,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 12.1,
+      "units": "km/h"
+    }
+  },
+  "Forward - 2": {
+    "us": {
+      "value": 10.2,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 16.3,
+      "units": "km/h"
+    }
+  },
+  "Forward - 3": {
+    "us": {
+      "value": 13.8,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 22.2,
+      "units": "km/h"
+    }
+  },
+  "Forward - 4": {
+    "us": {
+      "value": 18.6,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 29.9,
+      "units": "km/h"
+    }
+  },
+  "Forward - 5": {
+    "us": {
+      "value": 25.2,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 40.6,
+      "units": "km/h"
+    }
+  },
+  "Forward - 6": {
+    "us": {
+      "value": 34,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 54.8,
+      "units": "km/h"
+    }
+  },
+  "Reverse": {
+    "us": {
+      "value": 6.8,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 11,
+      "units": "km/h"
+    }
+  },
+  "Top Speed - Loaded": {
+    "us": {
+      "value": 34,
+      "units": "mile/h"
+    },
+    "metric": {
+      "value": 54.8,
+      "units": "km/h"
+    }
+  },
+  "Differential Ratio": {
+    "us": {
+      "value": 2.1
+    },
+    "metric": {
+      "value": 2.1
+    }
+  },
+  "Planetary Ratio": {
+    "us": {
+      "value": 10.83
+    },
+    "metric": {
+      "value": 10.83
+    }
+  },
+  "Total Reduction Ratio": {
+    "us": {
+      "value": 22.75
+    },
+    "metric": {
+      "value": 22.75
+    }
+  },
+  "Effective Cylinder Stroke - Front": {
+    "us": {
+      "value": 12.1,
+      "units": "in"
+    },
+    "metric": {
+      "value": 306.5,
+      "units": "mm"
+    }
+  },
+  "Effective Cylinder Stroke - Rear": {
+    "us": {
+      "value": 6.5,
+      "units": "in"
+    },
+    "metric": {
+      "value": 165,
+      "units": "mm"
+    }
+  },
+  "Brake Surface - Front": {
+    "us": {
+      "value": 9497,
+      "units": "in²"
+    },
+    "metric": {
+      "value": 61270,
+      "units": "cm²"
+    }
+  },
+  "Brake Surface - Rear": {
+    "us": {
+      "value": 13908,
+      "units": "in²"
+    },
+    "metric": {
+      "value": 89729,
+      "units": "cm²"
+    }
+  },
+  "Standards": {
+    "us": {
+      "value": null,
+      "units": "J1473"
+    },
+    "metric": {
+      "value": null,
+      "units": "J1473"
+    }
+  },
+  "Pump Flow - High Idle": {
+    "us": {
+      "value": 198,
+      "units": "gal/min"
+    },
+    "metric": {
+      "value": 750,
+      "units": "l/min"
+    }
+  },
+  "Relief Valve Setting - Raise": {
+    "us": {
+      "value": 2500,
+      "units": "psi"
+    },
+    "metric": {
+      "value": 17238,
+      "units": "kPa"
+    }
+  },
+  "Body Raise Time - High Idle": {
+    "us": {
+      "value": 15.2,
+      "units": "s"
+    },
+    "metric": {
+      "value": 15.2,
+      "units": "s"
+    }
+  },
+  "Body Lower Time - High Idle": {
+    "us": {
+      "value": 15.9,
+      "units": "s"
+    },
+    "metric": {
+      "value": 15.9,
+      "units": "s"
+    }
+  },
+  "Body Lower Time - Float": {
+    "us": {
+      "value": 16.2,
+      "units": "s"
+    },
+    "metric": {
+      "value": 16.2,
+      "units": "s"
+    }
+  },
+  "Body Power Down - High Idle": {
+    "us": {
+      "value": 15.9,
+      "units": "s"
+    },
+    "metric": {
+      "value": 15.9,
+      "units": "s"
+    }
+  },
+  "Body Weight": {
+    "us": {
+      "value": 55468,
+      "units": "lb"
+    },
+    "metric": {
+      "value": 25160,
+      "units": "kg"
+    }
+  },
+  "Heaped (SAE 2:1)": {
+    "us": {
+      "value": 111,
+      "units": "yd³"
+    },
+    "metric": {
+      "value": 85,
+      "units": "m³"
+    }
+  },
+  "Turning Diameter - Front": {
+    "us": {
+      "value": 97.7,
+      "units": "ft"
+    },
+    "metric": {
+      "value": 29.8,
+      "units": "m"
+    }
+  },
+  "Steer Angle": {
+    "us": {
+      "value": 36,
+      "units": "°"
+    },
+    "metric": {
+      "value": 36,
+      "units": "°"
+    }
+  },
+  "Steering Standards": {
+    "us": {
+      "value": null,
+      "units": "J1511"
+    },
+    "metric": {
+      "value": null,
+      "units": "J1511"
+    }
+  },
+  "Front Axle - Empty*": {
+    "us": {
+      "value": 45
+    },
+    "metric": {
+      "value": 45
+    }
+  },
+  "Rear Axle - Empty*": {
+    "us": {
+      "value": 54
+    },
+    "metric": {
+      "value": 54
+    }
+  },
+  "Front Axle - Loaded - Target": {
+    "us": {
+      "value": 33,
+      "units": "%"
+    },
+    "metric": {
+      "value": 33,
+      "units": "%"
+    }
+  },
+  "Rear Axle - Loaded - Target": {
+    "us": {
+      "value": 67,
+      "units": "%"
+    },
+    "metric": {
+      "value": 67,
+      "units": "%"
+    }
+  },
+  "Rear Axle - Loaded": {
+    "us": {
+      "value": null,
+      "units": "on"
+    },
+    "metric": {
+      "value": null,
+      "units": "on"
+    }
+  },
+  "Rear Axle - Empty": {
+    "us": {
+      "value": null,
+      "units": "on"
+    },
+    "metric": {
+      "value": null,
+      "units": "on"
+    }
+  },
+  "Note": {
+    "us": {
+      "value": null,
+      "units": "distributions"
+    },
+    "metric": {
+      "value": null,
+      "units": "distributions"
+    }
+  },
+  "Fuel Tank - Standard": {
+    "us": {
+      "value": 500,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 1893,
+      "units": "l"
+    }
+  },
+  "Cooling System": {
+    "us": {
+      "value": 100,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 379,
+      "units": "l"
+    }
+  },
+  "Crankcase": {
+    "us": {
+      "value": 54,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 204,
+      "units": "l"
+    }
+  },
+  "Differential - Final Drives": {
+    "us": {
+      "value": 115,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 436,
+      "units": "l"
+    }
+  },
+  "Steering Tank": {
+    "us": {
+      "value": 24,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 90,
+      "units": "l"
+    }
+  },
+  "Steering System - Including Tank": {
+    "us": {
+      "value": 31,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 117,
+      "units": "l"
+    }
+  },
+  "Brake/Hoist Hydraulic Tank": {
+    "us": {
+      "value": 89,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 337,
+      "units": "l"
+    }
+  },
+  "Brake Hoist System - Includes Tank": {
+    "us": {
+      "value": 169,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 641,
+      "units": "l"
+    }
+  },
+  "Torque Converter/Transmission System - Including Sump": {
+    "us": {
+      "value": 65.51,
+      "units": "gal"
+    },
+    "metric": {
+      "value": 248,
+      "units": "l"
+    }
+  },
+  "ROPS Standards": {
+    "us": {
+      "value": null,
+      "units": "J1040"
+    },
+    "metric": {
+      "value": null,
+      "units": "J1040"
+    }
+  },
+  "Sound Standards": {
+    "us": {
+      "value": null,
+      "units": "J1166"
+    },
+    "metric": {
+      "value": null,
+      "units": "J1166"
+    }
+  },
+  "Standard Tires": {
+    "us": {
+      "value": 33,
+      "units": "(E3"
+    },
+    "metric": {
+      "value": 33,
+      "units": "(E3"
+    }
+  }
+}
