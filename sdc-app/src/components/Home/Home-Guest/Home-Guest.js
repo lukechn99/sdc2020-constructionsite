@@ -7,7 +7,7 @@ import React, {Component} from 'react';
             <div>
          
             Home-Guest
-               </div>      
+               </div>   
 
           )
       }
