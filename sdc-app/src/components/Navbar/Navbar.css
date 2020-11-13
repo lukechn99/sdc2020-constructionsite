@@ -4,7 +4,15 @@
     background-color: black;
 } */
 
+.Navbar-Border{
+    background-color: black;
+}
 
+img{
+    padding-right: 1100px;
+    height : 44px;
+     /* width : 88px;  */
+}
 
 ul {
     list-style-type : none;
@@ -30,4 +38,16 @@ li a {
 li a:hover {
     background-color: gray;
 
+}
+
+p{
+    color: white;
+}
+
+.Login-Page{
+    padding-top:280px;
+}
+
+.btnLogin{
+    size:200px;
 }
