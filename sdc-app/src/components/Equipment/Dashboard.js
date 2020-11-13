@@ -30,7 +30,7 @@ class Equipment extends React.Component {
                 <button
                     bsStyle = "primary"
                     onClick = {() => this.handleClick(cell, row, rowIndex)}
-                >Show Info</button>
+                ><img src="./img/google.png" alt="my image" onClick={() => this.handleClick(cell, row, rowIndex)}/></button>
                 <Dialog ref={(el) => { this.dialog = el }} />
             </React.Fragment>
         )
@@ -49,7 +49,7 @@ class Dashboard extends React.Component {
                 <TableHeaderColumn dataField='id' isKey>Id</TableHeaderColumn>
                 <TableHeaderColumn
                     dataField='sessionDetails'
-                    dataFormat={this.cellButton.bind(this)}></TableHeaderColumn>
+                    dataFormat={this.Equipment.bind(this)}></TableHeaderColumn>
             </BootstrapTable>
         )
     }
